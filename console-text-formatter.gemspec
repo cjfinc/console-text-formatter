@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["cjf.inc@gmail.com"]
   s.homepage    = "https://github.com/cjfinc/console-text-formatter"
   s.summary     = %q{Simple console text formatter for ruby}
-  s.description = %q{Simple console text formatter for ruby, wish abbility to print hash of data on console}
+  s.description = %q{Simple console text formatter for ruby, with ability to print data hash to console}
 
   s.files         = `git ls-files`.split("\n")
   s.require_paths = %w(lib)
