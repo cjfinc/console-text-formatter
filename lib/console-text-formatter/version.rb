@@ -1,3 +1,3 @@
 module ConsoleTextFormatter
-  VERSION = "0.0.1" unless defined?(ConsoleTextFormatter::VERSION)
+  VERSION = "0.0.2" unless defined?(ConsoleTextFormatter::VERSION)
 end
